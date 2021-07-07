@@ -1,5 +1,5 @@
 # FirstRepository
 
-## Editing the file
 
-Its a first file in this repository
+
+Documenting my learning process in web development.
